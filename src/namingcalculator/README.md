@@ -1,8 +1,7 @@
-<div style="background-color:rgba(0,0,0,0.5);">
 # Azure Resource Naming Calculator
 
 The Azure Resource Naming Calculator is a a macro-enabled Excel spreadsheet that allows you to create formatting expressions to test your naming convention against resource name lengths and formatting requirements. 
-</div>
+
 
 ### Getting Started
 To get started, open the "Resource Names" tab and begin by populating the Organization Name, Project/Product Name and Name Format columns. While the first two are obvious, the Name Format is the key value of the sheet. This is what allows names to be computed based on the various components of the resource information. 
